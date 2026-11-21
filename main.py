@@ -15,7 +15,7 @@ from pathlib import Path
 ENTRY = (
     "All afternoon, the fig tree has let go of one leaf at a time. "
     "Each one turns once in the air, and lands without a sound. "
-    "The house will stand tomorrow, and the tree longer still. "
+    "The house will be here tomorrow, and the tree long after that. "
     "Nothing here is waiting for you to finish."
 )
 
